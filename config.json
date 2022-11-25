@@ -1,9 +1,9 @@
 {
    "servers":[
       {
-         "server_name":"ServerName",
+         "server_name":"TURKEY",
      	"server_image_url":"ImageUrl",
-         "server_ip":"ip",
+         "server_ip":"TURKCELL",
          "server_speed":200,
          "server_proto":"tcp",
          "server_username":"demo",
